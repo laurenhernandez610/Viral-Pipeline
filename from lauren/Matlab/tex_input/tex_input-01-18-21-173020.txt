@@ -1,0 +1,9 @@
+%-----------------------
+% 18-Jan-2021 17:30:20     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/indiana_elkhart_legend.png}
+    \caption{}
+    \label{fig:legends/indiana_elkhart_legendLabel}
+\end{figure}
+

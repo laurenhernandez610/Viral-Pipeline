@@ -1,0 +1,15 @@
+%-----------------------
+% 03-Feb-2021 11:13:39     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_holiday_logLabel}
+\end{figure}
+

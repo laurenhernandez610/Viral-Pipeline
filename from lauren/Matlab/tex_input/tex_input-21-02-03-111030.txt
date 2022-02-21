@@ -1,0 +1,99 @@
+%-----------------------
+% 03-Feb-2021 11:10:30     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_holiday_logLabel}
+\end{figure}
+

@@ -1,0 +1,480 @@
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-0lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-0lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-0lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-0lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-0lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-0lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-7lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-0lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-3lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-0lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-3lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_8-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_8-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_9-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_9-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_8-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_8-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_9-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_9-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_13-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_13-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccines_administered_sorted_by_LTC_staff_residents_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccines_administered_sorted_by_LTC_staff_residents_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-2lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-2lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-2lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-2lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-2lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-2lagLabel}
+\end{figure}
+

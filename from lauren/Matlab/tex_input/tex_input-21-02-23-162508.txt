@@ -1,0 +1,843 @@
+%-----------------------
+% 23-Feb-2021 16:25:08     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_holiday_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dade_school_legend.png}
+    \caption{}
+    \label{fig:legends/dade_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_school_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_school_legend.png}
+    \caption{}
+    \label{fig:legends/broward_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_school_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/orange_school_legend.png}
+    \caption{}
+    \label{fig:legends/orange_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_school_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/los_angeles_school_legend.png}
+    \caption{}
+    \label{fig:legends/los_angeles_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_school_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_bernardino_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_bernardino_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_school_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_francisco_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_francisco_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_school_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_school_legend.png}
+    \caption{}
+    \label{fig:legends/travis_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_school_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_school_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_school_log.png}
+    \caption{}
+    \label{fig:images/dallas_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_school_legend.png}
+    \caption{}
+    \label{fig:legends/harris_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_school_log.png}
+    \caption{}
+    \label{fig:images/harris_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dade_school_legend.png}
+    \caption{}
+    \label{fig:legends/dade_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_school_legend.png}
+    \caption{}
+    \label{fig:legends/broward_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/orange_school_legend.png}
+    \caption{}
+    \label{fig:legends/orange_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/los_angeles_school_legend.png}
+    \caption{}
+    \label{fig:legends/los_angeles_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_bernardino_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_bernardino_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_francisco_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_francisco_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_school_legend.png}
+    \caption{}
+    \label{fig:legends/travis_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_school_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_school_legend.png}
+    \caption{}
+    \label{fig:legends/harris_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_school_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dade_school_legend.png}
+    \caption{}
+    \label{fig:legends/dade_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_school_legend.png}
+    \caption{}
+    \label{fig:legends/broward_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/orange_school_legend.png}
+    \caption{}
+    \label{fig:legends/orange_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/los_angeles_school_legend.png}
+    \caption{}
+    \label{fig:legends/los_angeles_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_bernardino_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_bernardino_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_francisco_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_francisco_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_school_legend.png}
+    \caption{}
+    \label{fig:legends/travis_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_school_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_school_legend.png}
+    \caption{}
+    \label{fig:legends/harris_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-1lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-2lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-3lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-4lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-5lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-6lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-7lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-8lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-9lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-10lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-11lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-12lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-13lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-14lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-15lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-16lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-17lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-18lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-19lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-20lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-21lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-22lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-23lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-24lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-25lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-26lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-27lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-28lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-29lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-30lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-30lagLabel}
+\end{figure}
+

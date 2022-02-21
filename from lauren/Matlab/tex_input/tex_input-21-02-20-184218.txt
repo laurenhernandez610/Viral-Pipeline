@@ -1,0 +1,21 @@
+%-----------------------
+% 20-Feb-2021 18:42:18     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/test_config1_legend.png}
+    \caption{}
+    \label{fig:legends/test_config1_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run.png}
+    \caption{}
+    \label{fig:images/test_config1_runLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/test_config2_legend.png}
+    \caption{}
+    \label{fig:legends/test_config2_legendLabel}
+\end{figure}
+

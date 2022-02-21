@@ -1,0 +1,195 @@
+%-----------------------
+% 20-Jan-2021 16:20:09     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/indiana_elkhart_legend.png}
+    \caption{}
+    \label{fig:legends/indiana_elkhart_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-0lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-1lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-2lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-3lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-4lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-5lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-6lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-7lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-8lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-9lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-10lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-11lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-12lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-13lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-14lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-15lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-16lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-17lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-18lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-19lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-20lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-21lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-22lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-23lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-24lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-25lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-26lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-27lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-28lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-29lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-30lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-30lagLabel}
+\end{figure}
+

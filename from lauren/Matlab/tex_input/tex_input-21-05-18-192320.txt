@@ -1,0 +1,105 @@
+%-----------------------
+% 18-May-2021 19:23:20     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_total_doses_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_total_doses_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_total_doses_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_total_doses_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_first_doses_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_first_doses_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_first_doses_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_first_doses_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_second_doses_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_second_doses_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_second_doses_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_second_doses_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_fully_vaccinated_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_fully_vaccinated_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_fully_vaccinated_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_fully_vaccinated_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_cases_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_cases_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_fatalities_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_fatalities_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_fatalities_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_fatalities_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_fully_vaccinated_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_fully_vaccinated_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_fully_vaccinated_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_fully_vaccinated_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_first_dose_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_first_dose_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_first_dose_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_first_dose_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_second_dose_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_second_dose_unprocessedLabel}
+\end{figure}
+

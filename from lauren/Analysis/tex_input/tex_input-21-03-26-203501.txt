@@ -1,0 +1,9 @@
+%-----------------------
+% 26-Mar-2021 20:35:01     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+

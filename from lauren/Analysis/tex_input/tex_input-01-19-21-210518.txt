@@ -1,0 +1,195 @@
+%-----------------------
+% 19-Jan-2021 21:05:18     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dateLegend.png}
+    \caption{}
+    \label{fig:legends/dateLegendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-0lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-1lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-2lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-3lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-4lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-5lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-6lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-7lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-8lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-9lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-10lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-11lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-12lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-13lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-14lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-15lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-16lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-17lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-18lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-19lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-20lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-21lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-22lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-23lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-24lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-25lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-26lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-27lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-28lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-29lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-30lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-30lagLabel}
+\end{figure}
+

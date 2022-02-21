@@ -1,0 +1,15 @@
+%-----------------------
+% 23-Jan-2021 17:59:41     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/test_config1_legend.png}
+    \caption{}
+    \label{fig:legends/test_config1_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-0lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-0lagLabel}
+\end{figure}
+

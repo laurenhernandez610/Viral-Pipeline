@@ -1,0 +1,45 @@
+%-----------------------
+% 26-May-2021 13:48:58     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-1lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-2lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-3lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-4lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-5lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_1-6lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_1-6lagLabel}
+\end{figure}
+

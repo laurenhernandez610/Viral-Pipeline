@@ -1,0 +1,15 @@
+%-----------------------
+% 18-Jan-2021 11:42:37     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/trump_legend.png}
+    \caption{}
+    \label{fig:legends/trump_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_trump_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_trump_logLabel}
+\end{figure}
+

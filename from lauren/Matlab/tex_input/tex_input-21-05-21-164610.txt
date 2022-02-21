@@ -1,0 +1,21 @@
+%-----------------------
+% 21-May-2021 16:46:10     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_vac_cumulative.png}
+    \caption{}
+    \label{fig:images/usa_vac_cumulativeLabel}
+\end{figure}
+

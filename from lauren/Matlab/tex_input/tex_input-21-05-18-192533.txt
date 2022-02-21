@@ -1,0 +1,9 @@
+%-----------------------
+% 18-May-2021 19:25:33     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+

@@ -1,0 +1,15 @@
+%-----------------------
+% 19-Jan-2021 21:38:21     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dateLegend.png}
+    \caption{}
+    \label{fig:legends/dateLegendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_fatalities_fda_log-0lag.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_fatalities_fda_log-0lagLabel}
+\end{figure}
+

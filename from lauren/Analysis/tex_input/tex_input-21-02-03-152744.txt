@@ -1,0 +1,27 @@
+%-----------------------
+% 03-Feb-2021 15:27:44     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_school_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_school_legend.png}
+    \caption{}
+    \label{fig:legends/harris_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_school_logLabel}
+\end{figure}
+

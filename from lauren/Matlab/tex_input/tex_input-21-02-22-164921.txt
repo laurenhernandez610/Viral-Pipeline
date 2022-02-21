@@ -1,0 +1,15 @@
+%-----------------------
+% 22-Feb-2021 16:49:21     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_school_legend.png}
+    \caption{}
+    \label{fig:legends/harris_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_school_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_school_logLabel}
+\end{figure}
+

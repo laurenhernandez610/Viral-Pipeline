@@ -1,0 +1,9 @@
+%-----------------------
+% 18-May-2021 15:36:29     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_second_doses_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_second_doses_processedLabel}
+\end{figure}
+

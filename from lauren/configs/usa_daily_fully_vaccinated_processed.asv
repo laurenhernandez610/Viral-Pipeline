@@ -1,0 +1,23 @@
+filename=..\..\from lauren\Matlab\usa_daily_stats_21_12_16.csv
+plottype=line
+data1=DailyCountOfPeopleFullyVaccinated
+data2=NewCases
+data3=NewDeaths
+
+graphtitle=Nationwide Comparison: Daily count of fully vaccinated individuals, new COVID-19 cases, new COVID-19 fatalities.
+subtitle=Shown is the daily new count of COVID-19 case and vaccination trends for individuals in the United States with vaccine rollout dates overlaid. 
+
+title1=Daily count fully vaccinated
+title2=Daily new cases
+title3=Daily new fatalities
+
+movAvg=0
+getLog=0
+
+
+datefile=LTC Vaccine Rollout.xlsx
+dateTitle=Date
+dateFormat='MM/dd/yyyy'
+
+saveFilename=usa_full_case_death
+legendFilename=LTC Vaccine Rollout

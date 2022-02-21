@@ -1,0 +1,15 @@
+%-----------------------
+% 19-Apr-2021 19:13:55     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_daily_fatalities.png}
+    \caption{}
+    \label{fig:images/ltc_daily_fatalitiesLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/nationwide_fully_vaccinated.png}
+    \caption{}
+    \label{fig:images/nationwide_fully_vaccinatedLabel}
+\end{figure}
+

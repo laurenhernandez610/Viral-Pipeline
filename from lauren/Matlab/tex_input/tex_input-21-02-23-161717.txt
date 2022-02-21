@@ -1,0 +1,495 @@
+%-----------------------
+% 23-Feb-2021 16:17:17     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/dallas_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/harris_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-0lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-1lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-2lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-3lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-4lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-5lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-6lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-7lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-8lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-9lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-10lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-11lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-12lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-13lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-14lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-15lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-16lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-17lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-18lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-19lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-20lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-21lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-22lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-23lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-24lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-25lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-26lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-27lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-28lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-29lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_cases_ratio-30lag.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_cases_ratio-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-1lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-2lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-3lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-4lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-5lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-6lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-7lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-8lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-9lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-10lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-11lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-12lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-13lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-14lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-15lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-16lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-17lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-18lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-19lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-20lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-21lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-22lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-23lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-24lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-25lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-26lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-27lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-28lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-29lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-30lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-30lagLabel}
+\end{figure}
+

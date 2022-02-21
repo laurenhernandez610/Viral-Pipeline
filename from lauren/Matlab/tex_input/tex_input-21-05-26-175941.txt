@@ -1,0 +1,9 @@
+%-----------------------
+% 26-May-2021 17:59:41     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_13.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_13Label}
+\end{figure}
+

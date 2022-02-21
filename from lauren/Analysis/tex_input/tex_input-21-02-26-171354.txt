@@ -1,0 +1,1299 @@
+%-----------------------
+% 26-Feb-2021 17:13:54     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAl20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAl20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/travis_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/dallas_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dallas_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/harris_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/harris_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_B117.png}
+    \caption{}
+    \label{fig:images/dade_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_B117.png}
+    \caption{}
+    \label{fig:images/broward_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_B117.png}
+    \caption{}
+    \label{fig:images/orange_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_B117.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_B117.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_B117.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_B117.png}
+    \caption{}
+    \label{fig:images/travis_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_B117.png}
+    \caption{}
+    \label{fig:images/dallas_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/dallas_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_B117.png}
+    \caption{}
+    \label{fig:images/harris_cases_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_B117.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_B117.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_B117Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_cases_B117_log.png}
+    \caption{}
+    \label{fig:images/harris_cases_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_B117_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_B117_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/B117_legend.png}
+    \caption{}
+    \label{fig:legends/B117_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_B117_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_B117_logLabel}
+\end{figure}
+

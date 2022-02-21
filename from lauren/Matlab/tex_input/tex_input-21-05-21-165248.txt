@@ -1,0 +1,51 @@
+%-----------------------
+% 21-May-2021 16:52:48     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_vac_cumulative.png}
+    \caption{}
+    \label{fig:images/usa_vac_cumulativeLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vac_fraction_US.png}
+    \caption{}
+    \label{fig:images/vac_fraction_USLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/non_vac_fraction_US.png}
+    \caption{}
+    \label{fig:images/non_vac_fraction_USLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_vac_cumulative.png}
+    \caption{}
+    \label{fig:images/ltc_vac_cumulativeLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vac_fraction_LTC.png}
+    \caption{}
+    \label{fig:images/vac_fraction_LTCLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/non_vac_fraction_LTC.png}
+    \caption{}
+    \label{fig:images/non_vac_fraction_LTCLabel}
+\end{figure}
+

@@ -1,0 +1,27 @@
+%-----------------------
+% 27-May-2021 15:08:22     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_15.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_15Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_16.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_16Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_17.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_17Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_18.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_18Label}
+\end{figure}
+

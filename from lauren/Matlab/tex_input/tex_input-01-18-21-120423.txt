@@ -1,0 +1,111 @@
+%-----------------------
+% 18-Jan-2021 12:04:23     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/dallas_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/harris_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_fda_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_fda_logLabel}
+\end{figure}
+

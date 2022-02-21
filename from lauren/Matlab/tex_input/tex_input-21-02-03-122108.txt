@@ -1,0 +1,111 @@
+%-----------------------
+% 03-Feb-2021 12:21:08     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/dallas_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_hospitalizations_strains_log.png}
+    \caption{}
+    \label{fig:images/harris_hospitalizations_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_fatalities_strains_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_fatalities_strains_log.png}
+    \caption{}
+    \label{fig:images/travis_fatalities_strains_logLabel}
+\end{figure}
+

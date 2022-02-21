@@ -1,0 +1,87 @@
+%-----------------------
+% 03-Feb-2021 11:03:28     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_hospitalizations_holiday_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_hospitalizations_holiday_log.png}
+    \caption{}
+    \label{fig:images/travis_hospitalizations_holiday_logLabel}
+\end{figure}
+

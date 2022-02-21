@@ -1,0 +1,9 @@
+%-----------------------
+% 19-Apr-2021 19:03:44     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/nationwide_fully_vaccinated.png}
+    \caption{}
+    \label{fig:images/nationwide_fully_vaccinatedLabel}
+\end{figure}
+

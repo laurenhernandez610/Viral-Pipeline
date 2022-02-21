@@ -1,0 +1,99 @@
+%-----------------------
+% 25-Feb-2021 13:15:58     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_65_older_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_65_older_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_65_older.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_65_olderLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_50_64.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_50_64Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_50_64_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_50_64_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_18_49.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_18_49Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_18_49_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_18_49_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_0_17.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_0_17Label}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_0_17_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_0_17_logLabel}
+\end{figure}
+

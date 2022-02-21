@@ -1,0 +1,87 @@
+%-----------------------
+% 03-Feb-2021 15:17:23     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dade_school_legend.png}
+    \caption{}
+    \label{fig:legends/dade_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_school_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_school_legend.png}
+    \caption{}
+    \label{fig:legends/broward_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_school_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/orange_school_legend.png}
+    \caption{}
+    \label{fig:legends/orange_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_school_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/los_angeles_school_legend.png}
+    \caption{}
+    \label{fig:legends/los_angeles_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_school_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_bernardino_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_bernardino_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_cases_school_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_francisco_school_legend.png}
+    \caption{}
+    \label{fig:legends/san_francisco_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_cases_school_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_cases_school_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_school_legend.png}
+    \caption{}
+    \label{fig:legends/travis_school_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_school_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_school_logLabel}
+\end{figure}
+

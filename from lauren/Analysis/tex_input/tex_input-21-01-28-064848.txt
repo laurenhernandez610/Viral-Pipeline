@@ -1,0 +1,27 @@
+%-----------------------
+% 28-Jan-2021 06:48:48     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/broward_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_mask_order.png}
+    \caption{}
+    \label{fig:images/broward_mask_orderLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/broward_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_mask_order_log.png}
+    \caption{}
+    \label{fig:images/broward_mask_order_logLabel}
+\end{figure}
+

@@ -1,0 +1,9 @@
+%-----------------------
+% 18-May-2021 17:27:37     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_full_case_death.png}
+    \caption{}
+    \label{fig:images/usa_full_case_deathLabel}
+\end{figure}
+

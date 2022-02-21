@@ -1,0 +1,21 @@
+%-----------------------
+% 25-Jul-2021 12:39:49     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccines_sorted_by_brand_us.png}
+    \caption{}
+    \label{fig:images/vaccines_sorted_by_brand_usLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccines_administered_sorted_by_brand_us.png}
+    \caption{}
+    \label{fig:images/vaccines_administered_sorted_by_brand_usLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccines_administered_sorted_by_LTC_staff_residents_us.png}
+    \caption{}
+    \label{fig:images/vaccines_administered_sorted_by_LTC_staff_residents_usLabel}
+\end{figure}
+

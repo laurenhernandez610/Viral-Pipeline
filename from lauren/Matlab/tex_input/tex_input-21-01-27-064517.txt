@@ -1,0 +1,27 @@
+%-----------------------
+% 27-Jan-2021 06:45:17     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/FloridaLegend.png}
+    \caption{}
+    \label{fig:legends/FloridaLegendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_fatalities_line-0lag.png}
+    \caption{}
+    \label{fig:images/broward_cases_fatalities_line-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_fatalities_line-1lag.png}
+    \caption{}
+    \label{fig:images/broward_cases_fatalities_line-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_fatalities_line-2lag.png}
+    \caption{}
+    \label{fig:images/broward_cases_fatalities_line-2lagLabel}
+\end{figure}
+

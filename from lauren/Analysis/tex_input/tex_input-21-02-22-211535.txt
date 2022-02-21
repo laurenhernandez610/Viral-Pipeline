@@ -1,0 +1,195 @@
+%-----------------------
+% 22-Feb-2021 21:15:35     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-0lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-1lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-2lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-3lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-4lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-5lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-6lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-7lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-8lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-9lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-10lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-11lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-12lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-13lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-14lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-15lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-16lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-17lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-18lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-19lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-20lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-21lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-22lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-23lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-24lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-25lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-26lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-27lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-28lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-29lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_cases-30lag.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_cases-30lagLabel}
+\end{figure}
+

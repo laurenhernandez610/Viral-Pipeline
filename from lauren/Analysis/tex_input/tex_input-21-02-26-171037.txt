@@ -1,0 +1,219 @@
+%-----------------------
+% 26-Feb-2021 17:10:37     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/dade_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_cases_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_CAL20C.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_CAL20CLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_cases_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_cases_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_hospitalizations_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_hospitalizations_CAL20C_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/CAL20C_legend.png}
+    \caption{}
+    \label{fig:legends/CAL20C_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_fatalities_CAL20C_log.png}
+    \caption{}
+    \label{fig:images/orange_fatalities_CAL20C_logLabel}
+\end{figure}
+

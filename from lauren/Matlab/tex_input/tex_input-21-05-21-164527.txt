@@ -1,0 +1,15 @@
+%-----------------------
+% 21-May-2021 16:45:27     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_cases_processedLabel}
+\end{figure}
+

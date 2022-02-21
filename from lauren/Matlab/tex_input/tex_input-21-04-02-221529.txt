@@ -1,0 +1,39 @@
+%-----------------------
+% 02-Apr-2021 22:15:29     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/california_nursing_home_with_vaccine.png}
+    \caption{}
+    \label{fig:images/california_nursing_home_with_vaccineLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/florida_nursing_home_with_vaccine.png}
+    \caption{}
+    \label{fig:images/florida_nursing_home_with_vaccineLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/texas_nursing_home_with_vaccine.png}
+    \caption{}
+    \label{fig:images/texas_nursing_home_with_vaccineLabel}
+\end{figure}
+

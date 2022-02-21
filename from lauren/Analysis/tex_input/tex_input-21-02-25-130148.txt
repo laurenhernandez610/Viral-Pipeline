@@ -1,0 +1,27 @@
+%-----------------------
+% 25-Feb-2021 13:01:48     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_65_older_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_65_older_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_cases_65_older.png}
+    \caption{}
+    \label{fig:images/los_angeles_cases_65_olderLabel}
+\end{figure}
+

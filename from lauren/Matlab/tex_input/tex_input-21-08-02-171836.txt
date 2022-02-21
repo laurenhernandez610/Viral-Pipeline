@@ -1,0 +1,405 @@
+%-----------------------
+% 02-Aug-2021 17:18:36     
+%-----------------------
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccines_sorted_by_brand_us.png}
+    \caption{}
+    \label{fig:images/vaccines_sorted_by_brand_usLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccines_administered_sorted_by_brand_us.png}
+    \caption{}
+    \label{fig:images/vaccines_administered_sorted_by_brand_usLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccines_administered_sorted_by_LTC_staff_residents_us.png}
+    \caption{}
+    \label{fig:images/vaccines_administered_sorted_by_LTC_staff_residents_usLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_us.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_usLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-1lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-1lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-2lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-2lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-3lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-3lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-4lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-4lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-5lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-5lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-6lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-6lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-7lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-7lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-8lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-8lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-9lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-9lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-10lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-10lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-11lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-11lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-12lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-12lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-13lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-13lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-14lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-14lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-15lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-15lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-16lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-16lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-17lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-17lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-18lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-18lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-19lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-19lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-20lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-20lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-21lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-21lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-22lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-22lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-23lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-23lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-24lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-24lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-25lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-25lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-26lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-26lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-27lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-27lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-28lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-28lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-29lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-29lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_ratio_us-30lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_ratio_us-30lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-0lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-0lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-1lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-1lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-2lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-2lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-3lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-3lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-4lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-4lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-5lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-5lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-6lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-6lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-7lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-7lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-8lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-8lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-9lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-9lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-10lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-10lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-11lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-11lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-12lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-12lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-13lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-13lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-14lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-14lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-15lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-15lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-16lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-16lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-17lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-17lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-18lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-18lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-19lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-19lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-20lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-20lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-21lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-21lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-22lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-22lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-23lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-23lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-24lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-24lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-25lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-25lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-26lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-26lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-27lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-27lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-28lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-28lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-29lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-29lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccine_1_administered_LTC_staff_residents_lag_us-30lag.png}
+    \caption{}
+    \label{fig:images/vaccine_1_administered_LTC_staff_residents_lag_us-30lagLabel}
+\end{figure}
+
+\begin{figure}[H]
+    \includegraphics[width=\linewidth]{images/vaccines_full_LTC_staff_residents_us.png}
+    \caption{}
+    \label{fig:images/vaccines_full_LTC_staff_residents_usLabel}
+\end{figure}
+

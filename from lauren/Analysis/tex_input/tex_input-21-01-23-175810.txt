@@ -1,0 +1,9 @@
+%-----------------------
+% 23-Jan-2021 17:58:10     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/test_config1_legend.png}
+    \caption{}
+    \label{fig:legends/test_config1_legendLabel}
+\end{figure}
+

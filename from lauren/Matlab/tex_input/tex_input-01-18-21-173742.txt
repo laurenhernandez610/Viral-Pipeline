@@ -1,0 +1,9 @@
+%-----------------------
+% 18-Jan-2021 17:37:42     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dateLegend.png}
+    \caption{}
+    \label{fig:legends/dateLegendLabel}
+\end{figure}
+

@@ -1,0 +1,189 @@
+%-----------------------
+% 26-May-2021 17:51:04     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-0lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-1lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-2lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-3lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-4lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-5lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-6lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-7lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-8lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-9lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-10lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-11lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-12lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-13lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-14lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-15lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-16lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-17lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-18lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-19lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-20lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-21lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-22lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-23lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-24lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-25lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-26lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-27lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-28lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-29lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_fatalities_normalized_11-30lag.png}
+    \caption{}
+    \label{fig:images/ltc_fatalities_normalized_11-30lagLabel}
+\end{figure}
+

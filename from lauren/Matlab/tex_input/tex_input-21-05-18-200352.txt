@@ -1,0 +1,747 @@
+%-----------------------
+% 18-May-2021 20:03:52     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-1lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-2lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-3lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-4lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-5lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-6lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-7lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-8lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-9lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-10lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-11lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-12lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-13lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-14lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-15lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-16lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-17lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-18lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-19lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-20lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-21lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-22lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-23lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-24lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-25lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-26lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-27lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-28lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-29lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_cases-30lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_cases-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-1lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-2lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-3lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-4lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-5lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-6lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-7lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-8lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-9lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-10lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-11lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-12lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-13lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-14lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-15lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-16lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-17lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-18lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-19lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-20lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-21lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-22lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-23lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-24lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-25lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-26lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-27lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-28lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-29lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_nursing_fatalities-30lag.png}
+    \caption{}
+    \label{fig:images/usa_nursing_fatalities-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-0lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-1lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-2lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-3lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-4lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-5lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-6lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-7lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-8lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-9lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-10lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-11lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-12lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-13lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-14lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-15lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-16lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-17lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-18lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-19lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-20lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-21lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-22lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-23lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-24lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-25lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-26lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-27lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-28lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-29lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaFatalities_nursingCases-30lag.png}
+    \caption{}
+    \label{fig:images/usaFatalities_nursingCases-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-0lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-1lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-2lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-3lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-4lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-5lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-6lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-7lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-8lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-9lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-10lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-11lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-12lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-13lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-14lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-15lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-16lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-17lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-18lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-19lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-20lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-21lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-22lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-23lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-24lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-25lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-26lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-27lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-28lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-29lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usaCases_nursingFatalities-30lag.png}
+    \caption{}
+    \label{fig:images/usaCases_nursingFatalities-30lagLabel}
+\end{figure}
+

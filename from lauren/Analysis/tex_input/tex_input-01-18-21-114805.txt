@@ -1,0 +1,15 @@
+%-----------------------
+% 18-Jan-2021 11:48:05     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/fda_eua_legend.png}
+    \caption{}
+    \label{fig:legends/fda_eua_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_fatalities_fda_log.png}
+    \caption{}
+    \label{fig:images/broward_fatalities_fda_logLabel}
+\end{figure}
+

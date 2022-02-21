@@ -1,0 +1,123 @@
+%-----------------------
+% 03-Feb-2021 10:04:22     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/broward_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/broward_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_mask_order_log.png}
+    \caption{}
+    \label{fig:images/broward_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dade_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/dade_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dade_mask_order_log.png}
+    \caption{}
+    \label{fig:images/dade_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_mask_order_log.png}
+    \caption{}
+    \label{fig:images/dallas_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/harris_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_mask_order_log.png}
+    \caption{}
+    \label{fig:images/harris_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/los_angeles_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/los_angeles_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/los_angeles_mask_order_log.png}
+    \caption{}
+    \label{fig:images/los_angeles_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/orange_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/orange_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/orange_mask_order_log.png}
+    \caption{}
+    \label{fig:images/orange_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_bernardino_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/san_bernardino_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_bernardino_mask_order_log.png}
+    \caption{}
+    \label{fig:images/san_bernardino_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/san_francisco_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/san_francisco_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/san_francisco_mask_order_log.png}
+    \caption{}
+    \label{fig:images/san_francisco_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/travis_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_mask_order_log.png}
+    \caption{}
+    \label{fig:images/travis_mask_order_logLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/holiday_legend.png}
+    \caption{}
+    \label{fig:legends/holiday_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_cases_holiday_log.png}
+    \caption{}
+    \label{fig:images/broward_cases_holiday_logLabel}
+\end{figure}
+

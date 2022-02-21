@@ -1,0 +1,33 @@
+%-----------------------
+% 25-May-2021 00:06:04     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_normalized_cases_movavg_vf.png}
+    \caption{}
+    \label{fig:images/usa_normalized_cases_movavg_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_normalized_fatalities_movavg_vf.png}
+    \caption{}
+    \label{fig:images/usa_normalized_fatalities_movavg_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_normalized_cases_movavg_vf.png}
+    \caption{}
+    \label{fig:images/ltc_normalized_cases_movavg_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_normalized_fatalities_movavg_vf.png}
+    \caption{}
+    \label{fig:images/ltc_normalized_fatalities_movavg_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_cases_vf_trio.png}
+    \caption{}
+    \label{fig:images/usa_cases_vf_trioLabel}
+\end{figure}
+

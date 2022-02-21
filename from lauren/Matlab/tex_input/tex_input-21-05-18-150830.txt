@@ -1,0 +1,27 @@
+%-----------------------
+% 18-May-2021 15:08:30     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_cases_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_cases_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_cases_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_cases_processedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_fatalities_unprocessed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_fatalities_unprocessedLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_daily_ltc_fatalities_processed.png}
+    \caption{}
+    \label{fig:images/usa_daily_ltc_fatalities_processedLabel}
+\end{figure}
+

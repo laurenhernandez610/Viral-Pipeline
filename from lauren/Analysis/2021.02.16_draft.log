@@ -1,0 +1,1510 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 SEP 2021 09:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2021.02.16_draft.tex
+(./2021.02.16_draft.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count175
+\c@continuedfloat=\count176
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen144
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen145
+\subfiglabelskip=\skip52
+\c@subfigure=\count177
+\c@lofdepth=\count178
+\c@subtable=\count179
+\c@lotdepth=\count180
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count181
+\float@exts=\toks16
+\float@box=\box45
+\@float@everytoks=\toks17
+\@floatcapt=\box46
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count182
+\l__pdf_internal_box=\box47
+)
+(./2021.02.16_draft.aux
+
+LaTeX Warning: Label `fig:legends/variant_strains_legendLabel' multiply defined
+.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:legends/variant_strains_legendLabel' multiply defined
+.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:legends/holiday_legendLabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:legends/holiday_legendLabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+
+LaTeX Warning: Label `fig:foobar' multiply defined.
+
+)
+\openout1 = `2021.02.16_draft.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+0.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count183
+\scratchdimen=\dimen146
+\scratchbox=\box48
+\nofMPsegments=\count184
+\nofMParguments=\count185
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count186
+\MPscratchDim=\dimen147
+\MPnumerator=\count187
+\makeMPintoPDFobject=\count188
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+<legends/variant_strains_legend.png, id=1, 1355.0625pt x 903.375pt>
+File: legends/variant_strains_legend.png Graphic file (type png)
+<use legends/variant_strains_legend.png>
+Package pdftex.def Info: legends/variant_strains_legend.png  used on input line
+ 55.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+
+[1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<images/dade_cases_strains_log.png, id=15, 1355.0625pt x 903.375pt>
+File: images/dade_cases_strains_log.png Graphic file (type png)
+<use images/dade_cases_strains_log.png>
+Package pdftex.def Info: images/dade_cases_strains_log.png  used on input line 
+63.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_cases_strains_log.png, id=16, 1355.0625pt x 903.375pt>
+File: images/broward_cases_strains_log.png Graphic file (type png)
+<use images/broward_cases_strains_log.png>
+Package pdftex.def Info: images/broward_cases_strains_log.png  used on input li
+ne 64.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_cases_strains_log.png, id=17, 1355.0625pt x 903.375pt>
+File: images/orange_cases_strains_log.png Graphic file (type png)
+<use images/orange_cases_strains_log.png>
+Package pdftex.def Info: images/orange_cases_strains_log.png  used on input lin
+e 65.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_cases_strains_log.png, id=18, 1355.0625pt x 903.375pt>
+File: images/los_angeles_cases_strains_log.png Graphic file (type png)
+<use images/los_angeles_cases_strains_log.png>
+Package pdftex.def Info: images/los_angeles_cases_strains_log.png  used on inpu
+t line 66.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_cases_strains_log.png, id=19, 1355.0625pt x 903.375pt>
+File: images/san_bernardino_cases_strains_log.png Graphic file (type png)
+<use images/san_bernardino_cases_strains_log.png>
+Package pdftex.def Info: images/san_bernardino_cases_strains_log.png  used on i
+nput line 67.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_cases_strains_log.png, id=20, 1355.0625pt x 903.375pt>
+File: images/san_francisco_cases_strains_log.png Graphic file (type png)
+<use images/san_francisco_cases_strains_log.png>
+Package pdftex.def Info: images/san_francisco_cases_strains_log.png  used on in
+put line 68.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_cases_strains_log.png, id=21, 1355.0625pt x 903.375pt>
+File: images/travis_cases_strains_log.png Graphic file (type png)
+<use images/travis_cases_strains_log.png>
+Package pdftex.def Info: images/travis_cases_strains_log.png  used on input lin
+e 69.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/dallas_cases_strains_log.png, id=22, 1355.0625pt x 903.375pt>
+File: images/dallas_cases_strains_log.png Graphic file (type png)
+<use images/dallas_cases_strains_log.png>
+Package pdftex.def Info: images/dallas_cases_strains_log.png  used on input lin
+e 70.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/harris_cases_strains_log.png, id=23, 1355.0625pt x 903.375pt>
+File: images/harris_cases_strains_log.png Graphic file (type png)
+<use images/harris_cases_strains_log.png>
+Package pdftex.def Info: images/harris_cases_strains_log.png  used on input lin
+e 71.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+
+[2 <./legends/variant_strains_legend.png>] [3 <./images/dade_cases_strains_log.
+png> <./images/broward_cases_strains_log.png> <./images/orange_cases_strains_lo
+g.png> <./images/los_angeles_cases_strains_log.png> <./images/san_bernardino_ca
+ses_strains_log.png> <./images/san_francisco_cases_strains_log.png> <./images/t
+ravis_cases_strains_log.png> <./images/dallas_cases_strains_log.png> <./images/
+harris_cases_strains_log.png>]
+File: legends/variant_strains_legend.png Graphic file (type png)
+<use legends/variant_strains_legend.png>
+Package pdftex.def Info: legends/variant_strains_legend.png  used on input line
+ 82.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+<images/dade_hospitalizations_strains_log.png, id=40, 1355.0625pt x 903.375pt>
+File: images/dade_hospitalizations_strains_log.png Graphic file (type png)
+<use images/dade_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/dade_hospitalizations_strains_log.png  used on 
+input line 89.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_hospitalizations_strains_log.png, id=41, 1355.0625pt x 903.375p
+t>
+File: images/broward_hospitalizations_strains_log.png Graphic file (type png)
+<use images/broward_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/broward_hospitalizations_strains_log.png  used 
+on input line 90.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_hospitalizations_strains_log.png, id=42, 1355.0625pt x 903.375pt
+>
+File: images/orange_hospitalizations_strains_log.png Graphic file (type png)
+<use images/orange_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/orange_hospitalizations_strains_log.png  used o
+n input line 91.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_hospitalizations_strains_log.png, id=43, 1355.0625pt x 903.
+375pt>
+File: images/los_angeles_hospitalizations_strains_log.png Graphic file (type pn
+g)
+<use images/los_angeles_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/los_angeles_hospitalizations_strains_log.png  u
+sed on input line 92.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_hospitalizations_strains_log.png, id=44, 1355.0625pt x 9
+03.375pt>
+File: images/san_bernardino_hospitalizations_strains_log.png Graphic file (type
+ png)
+<use images/san_bernardino_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/san_bernardino_hospitalizations_strains_log.png
+  used on input line 93.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_hospitalizations_strains_log.png, id=45, 1355.0625pt x 90
+3.375pt>
+File: images/san_francisco_hospitalizations_strains_log.png Graphic file (type 
+png)
+<use images/san_francisco_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/san_francisco_hospitalizations_strains_log.png 
+ used on input line 94.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_hospitalizations_strains_log.png, id=46, 1355.0625pt x 903.375pt
+>
+File: images/travis_hospitalizations_strains_log.png Graphic file (type png)
+<use images/travis_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/travis_hospitalizations_strains_log.png  used o
+n input line 95.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/dallas_hospitalizations_strains_log.png, id=47, 1355.0625pt x 903.375pt
+>
+File: images/dallas_hospitalizations_strains_log.png Graphic file (type png)
+<use images/dallas_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/dallas_hospitalizations_strains_log.png  used o
+n input line 96.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/harris_hospitalizations_strains_log.png, id=48, 1355.0625pt x 903.375pt
+>
+File: images/harris_hospitalizations_strains_log.png Graphic file (type png)
+<use images/harris_hospitalizations_strains_log.png>
+Package pdftex.def Info: images/harris_hospitalizations_strains_log.png  used o
+n input line 97.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+ [4] [5 <./images/dade_hospitalizations_strains_log.png> <./images/broward_hosp
+italizations_strains_log.png> <./images/orange_hospitalizations_strains_log.png
+> <./images/los_angeles_hospitalizations_strains_log.png> <./images/san_bernard
+ino_hospitalizations_strains_log.png> <./images/san_francisco_hospitalizations_
+strains_log.png> <./images/travis_hospitalizations_strains_log.png> <./images/d
+allas_hospitalizations_strains_log.png> <./images/harris_hospitalizations_strai
+ns_log.png>]
+File: legends/variant_strains_legend.png Graphic file (type png)
+<use legends/variant_strains_legend.png>
+Package pdftex.def Info: legends/variant_strains_legend.png  used on input line
+ 110.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+<images/dade_fatalities_strains_log.png, id=64, 1355.0625pt x 903.375pt>
+File: images/dade_fatalities_strains_log.png Graphic file (type png)
+<use images/dade_fatalities_strains_log.png>
+Package pdftex.def Info: images/dade_fatalities_strains_log.png  used on input 
+line 117.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_fatalities_strains_log.png, id=65, 1355.0625pt x 903.375pt>
+File: images/broward_fatalities_strains_log.png Graphic file (type png)
+<use images/broward_fatalities_strains_log.png>
+Package pdftex.def Info: images/broward_fatalities_strains_log.png  used on inp
+ut line 118.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_fatalities_strains_log.png, id=66, 1355.0625pt x 903.375pt>
+File: images/orange_fatalities_strains_log.png Graphic file (type png)
+<use images/orange_fatalities_strains_log.png>
+Package pdftex.def Info: images/orange_fatalities_strains_log.png  used on inpu
+t line 119.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_fatalities_strains_log.png, id=67, 1355.0625pt x 903.375pt>
+
+File: images/los_angeles_fatalities_strains_log.png Graphic file (type png)
+<use images/los_angeles_fatalities_strains_log.png>
+Package pdftex.def Info: images/los_angeles_fatalities_strains_log.png  used on
+ input line 120.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_fatalities_strains_log.png, id=68, 1355.0625pt x 903.375
+pt>
+File: images/san_bernardino_fatalities_strains_log.png Graphic file (type png)
+<use images/san_bernardino_fatalities_strains_log.png>
+Package pdftex.def Info: images/san_bernardino_fatalities_strains_log.png  used
+ on input line 121.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_fatalities_strains_log.png, id=69, 1355.0625pt x 903.375p
+t>
+File: images/san_francisco_fatalities_strains_log.png Graphic file (type png)
+<use images/san_francisco_fatalities_strains_log.png>
+Package pdftex.def Info: images/san_francisco_fatalities_strains_log.png  used 
+on input line 122.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_fatalities_strains_log.png, id=70, 1355.0625pt x 903.375pt>
+File: images/travis_fatalities_strains_log.png Graphic file (type png)
+<use images/travis_fatalities_strains_log.png>
+Package pdftex.def Info: images/travis_fatalities_strains_log.png  used on inpu
+t line 123.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/dallas_fatalities_strains_log.png, id=71, 1355.0625pt x 903.375pt>
+File: images/dallas_fatalities_strains_log.png Graphic file (type png)
+<use images/dallas_fatalities_strains_log.png>
+Package pdftex.def Info: images/dallas_fatalities_strains_log.png  used on inpu
+t line 124.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/harris_fatalities_strains_log.png, id=72, 1355.0625pt x 903.375pt>
+File: images/harris_fatalities_strains_log.png Graphic file (type png)
+<use images/harris_fatalities_strains_log.png>
+Package pdftex.def Info: images/harris_fatalities_strains_log.png  used on inpu
+t line 125.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+ [6] [7 <./images/dade_fatalities_strains_log.png> <./images/broward_fatalities
+_strains_log.png> <./images/orange_fatalities_strains_log.png> <./images/los_an
+geles_fatalities_strains_log.png> <./images/san_bernardino_fatalities_strains_l
+og.png> <./images/san_francisco_fatalities_strains_log.png> <./images/travis_fa
+talities_strains_log.png> <./images/dallas_fatalities_strains_log.png> <./image
+s/harris_fatalities_strains_log.png>]
+<legends/holiday_legend.png, id=89, 1355.0625pt x 903.375pt>
+File: legends/holiday_legend.png Graphic file (type png)
+<use legends/holiday_legend.png>
+Package pdftex.def Info: legends/holiday_legend.png  used on input line 146.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+<images/dade_cases_holiday_log.png, id=90, 1355.0625pt x 903.375pt>
+File: images/dade_cases_holiday_log.png Graphic file (type png)
+<use images/dade_cases_holiday_log.png>
+Package pdftex.def Info: images/dade_cases_holiday_log.png  used on input line 
+153.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_cases_holiday_log.png, id=91, 1355.0625pt x 903.375pt>
+File: images/broward_cases_holiday_log.png Graphic file (type png)
+<use images/broward_cases_holiday_log.png>
+Package pdftex.def Info: images/broward_cases_holiday_log.png  used on input li
+ne 154.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_cases_holiday_log.png, id=92, 1355.0625pt x 903.375pt>
+File: images/orange_cases_holiday_log.png Graphic file (type png)
+<use images/orange_cases_holiday_log.png>
+Package pdftex.def Info: images/orange_cases_holiday_log.png  used on input lin
+e 155.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_cases_holiday_log.png, id=93, 1355.0625pt x 903.375pt>
+File: images/los_angeles_cases_holiday_log.png Graphic file (type png)
+<use images/los_angeles_cases_holiday_log.png>
+Package pdftex.def Info: images/los_angeles_cases_holiday_log.png  used on inpu
+t line 156.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_cases_holiday_log.png, id=94, 1355.0625pt x 903.375pt>
+File: images/san_bernardino_cases_holiday_log.png Graphic file (type png)
+<use images/san_bernardino_cases_holiday_log.png>
+Package pdftex.def Info: images/san_bernardino_cases_holiday_log.png  used on i
+nput line 157.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_cases_holiday_log.png, id=95, 1355.0625pt x 903.375pt>
+File: images/san_francisco_cases_holiday_log.png Graphic file (type png)
+<use images/san_francisco_cases_holiday_log.png>
+Package pdftex.def Info: images/san_francisco_cases_holiday_log.png  used on in
+put line 158.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_cases_holiday_log.png, id=96, 1355.0625pt x 903.375pt>
+File: images/travis_cases_holiday_log.png Graphic file (type png)
+<use images/travis_cases_holiday_log.png>
+Package pdftex.def Info: images/travis_cases_holiday_log.png  used on input lin
+e 159.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/dallas_cases_holiday_log.png, id=97, 1355.0625pt x 903.375pt>
+File: images/dallas_cases_holiday_log.png Graphic file (type png)
+<use images/dallas_cases_holiday_log.png>
+Package pdftex.def Info: images/dallas_cases_holiday_log.png  used on input lin
+e 160.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/harris_cases_holiday_log.png, id=98, 1355.0625pt x 903.375pt>
+File: images/harris_cases_holiday_log.png Graphic file (type png)
+<use images/harris_cases_holiday_log.png>
+Package pdftex.def Info: images/harris_cases_holiday_log.png  used on input lin
+e 161.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+[8 <./legends/holiday_legend.png>] [9 <./images/dade_cases_holiday_log.png> <./
+images/broward_cases_holiday_log.png> <./images/orange_cases_holiday_log.png> <
+./images/los_angeles_cases_holiday_log.png> <./images/san_bernardino_cases_holi
+day_log.png> <./images/san_francisco_cases_holiday_log.png> <./images/travis_ca
+ses_holiday_log.png> <./images/dallas_cases_holiday_log.png> <./images/harris_c
+ases_holiday_log.png>]
+File: legends/holiday_legend.png Graphic file (type png)
+<use legends/holiday_legend.png>
+Package pdftex.def Info: legends/holiday_legend.png  used on input line 173.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+<images/dade_hospitalizations_holiday_log.png, id=115, 1355.0625pt x 903.375pt>
+
+File: images/dade_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/dade_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/dade_hospitalizations_holiday_log.png  used on 
+input line 180.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_hospitalizations_holiday_log.png, id=116, 1355.0625pt x 903.375
+pt>
+File: images/broward_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/broward_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/broward_hospitalizations_holiday_log.png  used 
+on input line 181.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_hospitalizations_holiday_log.png, id=117, 1355.0625pt x 903.375p
+t>
+File: images/orange_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/orange_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/orange_hospitalizations_holiday_log.png  used o
+n input line 182.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_hospitalizations_holiday_log.png, id=118, 1355.0625pt x 903
+.375pt>
+File: images/los_angeles_hospitalizations_holiday_log.png Graphic file (type pn
+g)
+<use images/los_angeles_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/los_angeles_hospitalizations_holiday_log.png  u
+sed on input line 183.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_hospitalizations_holiday_log.png, id=119, 1355.0625pt x 
+903.375pt>
+File: images/san_bernardino_hospitalizations_holiday_log.png Graphic file (type
+ png)
+<use images/san_bernardino_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/san_bernardino_hospitalizations_holiday_log.png
+  used on input line 184.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_hospitalizations_holiday_log.png, id=120, 1355.0625pt x 9
+03.375pt>
+File: images/san_francisco_hospitalizations_holiday_log.png Graphic file (type 
+png)
+<use images/san_francisco_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/san_francisco_hospitalizations_holiday_log.png 
+ used on input line 185.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_hospitalizations_holiday_log.png, id=121, 1355.0625pt x 903.375p
+t>
+File: images/travis_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/travis_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/travis_hospitalizations_holiday_log.png  used o
+n input line 186.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/dallas_hospitalizations_holiday_log.png, id=122, 1355.0625pt x 903.375p
+t>
+File: images/dallas_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/dallas_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/dallas_hospitalizations_holiday_log.png  used o
+n input line 187.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/harris_hospitalizations_holiday_log.png, id=123, 1355.0625pt x 903.375p
+t>
+File: images/harris_hospitalizations_holiday_log.png Graphic file (type png)
+<use images/harris_hospitalizations_holiday_log.png>
+Package pdftex.def Info: images/harris_hospitalizations_holiday_log.png  used o
+n input line 188.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+ [10] [11 <./images/dade_hospitalizations_holiday_log.png> <./images/broward_ho
+spitalizations_holiday_log.png> <./images/orange_hospitalizations_holiday_log.p
+ng> <./images/los_angeles_hospitalizations_holiday_log.png> <./images/san_berna
+rdino_hospitalizations_holiday_log.png> <./images/san_francisco_hospitalization
+s_holiday_log.png> <./images/travis_hospitalizations_holiday_log.png> <./images
+/dallas_hospitalizations_holiday_log.png> <./images/harris_hospitalizations_hol
+iday_log.png>]
+File: legends/holiday_legend.png Graphic file (type png)
+<use legends/holiday_legend.png>
+Package pdftex.def Info: legends/holiday_legend.png  used on input line 200.
+(pdftex.def)             Requested size: 227.62204pt x 151.73839pt.
+<images/dade_fatalities_holiday_log.png, id=139, 1355.0625pt x 903.375pt>
+File: images/dade_fatalities_holiday_log.png Graphic file (type png)
+<use images/dade_fatalities_holiday_log.png>
+Package pdftex.def Info: images/dade_fatalities_holiday_log.png  used on input 
+line 207.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/broward_fatalities_holiday_log.png, id=140, 1355.0625pt x 903.375pt>
+File: images/broward_fatalities_holiday_log.png Graphic file (type png)
+<use images/broward_fatalities_holiday_log.png>
+Package pdftex.def Info: images/broward_fatalities_holiday_log.png  used on inp
+ut line 208.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/orange_fatalities_holiday_log.png, id=141, 1355.0625pt x 903.375pt>
+File: images/orange_fatalities_holiday_log.png Graphic file (type png)
+<use images/orange_fatalities_holiday_log.png>
+Package pdftex.def Info: images/orange_fatalities_holiday_log.png  used on inpu
+t line 209.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/los_angeles_fatalities_holiday_log.png, id=142, 1355.0625pt x 903.375pt
+>
+File: images/los_angeles_fatalities_holiday_log.png Graphic file (type png)
+<use images/los_angeles_fatalities_holiday_log.png>
+Package pdftex.def Info: images/los_angeles_fatalities_holiday_log.png  used on
+ input line 210.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_bernardino_fatalities_holiday_log.png, id=143, 1355.0625pt x 903.37
+5pt>
+File: images/san_bernardino_fatalities_holiday_log.png Graphic file (type png)
+<use images/san_bernardino_fatalities_holiday_log.png>
+Package pdftex.def Info: images/san_bernardino_fatalities_holiday_log.png  used
+ on input line 211.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/san_francisco_fatalities_holiday_log.png, id=144, 1355.0625pt x 903.375
+pt>
+File: images/san_francisco_fatalities_holiday_log.png Graphic file (type png)
+<use images/san_francisco_fatalities_holiday_log.png>
+Package pdftex.def Info: images/san_francisco_fatalities_holiday_log.png  used 
+on input line 212.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+<images/travis_fatalities_holiday_log.png, id=145, 1355.0625pt x 903.375pt>
+File: images/travis_fatalities_holiday_log.png Graphic file (type png)
+<use images/travis_fatalities_holiday_log.png>
+Package pdftex.def Info: images/travis_fatalities_holiday_log.png  used on inpu
+t line 213.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+File: images/travis_fatalities_holiday_log.png Graphic file (type png)
+<use images/travis_fatalities_holiday_log.png>
+Package pdftex.def Info: images/travis_fatalities_holiday_log.png  used on inpu
+t line 214.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+File: images/travis_fatalities_holiday_log.png Graphic file (type png)
+<use images/travis_fatalities_holiday_log.png>
+Package pdftex.def Info: images/travis_fatalities_holiday_log.png  used on inpu
+t line 215.
+(pdftex.def)             Requested size: 145.68143pt x 97.11092pt.
+ [12] [13 <./images/dade_fatalities_holiday_log.png> <./images/broward_fataliti
+es_holiday_log.png> <./images/orange_fatalities_holiday_log.png> <./images/los_
+angeles_fatalities_holiday_log.png> <./images/san_bernardino_fatalities_holiday
+_log.png> <./images/san_francisco_fatalities_holiday_log.png> <./images/travis_
+fatalities_holiday_log.png>]
+<images/dade_mask_order_log.png, id=160, 1355.0625pt x 903.375pt>
+File: images/dade_mask_order_log.png Graphic file (type png)
+<use images/dade_mask_order_log.png>
+Package pdftex.def Info: images/dade_mask_order_log.png  used on input line 235
+.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/dade_mask_order_legend.png, id=161, 1355.0625pt x 903.375pt>
+File: legends/dade_mask_order_legend.png Graphic file (type png)
+<use legends/dade_mask_order_legend.png>
+Package pdftex.def Info: legends/dade_mask_order_legend.png  used on input line
+ 236.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_mask_order_log.png, id=162, 1355.0625pt x 903.375pt>
+File: images/broward_mask_order_log.png Graphic file (type png)
+<use images/broward_mask_order_log.png>
+Package pdftex.def Info: images/broward_mask_order_log.png  used on input line 
+244.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/broward_mask_order_legend.png, id=163, 1355.0625pt x 903.375pt>
+File: legends/broward_mask_order_legend.png Graphic file (type png)
+<use legends/broward_mask_order_legend.png>
+Package pdftex.def Info: legends/broward_mask_order_legend.png  used on input l
+ine 245.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_mask_order_log.png, id=164, 1355.0625pt x 903.375pt>
+File: images/orange_mask_order_log.png Graphic file (type png)
+<use images/orange_mask_order_log.png>
+Package pdftex.def Info: images/orange_mask_order_log.png  used on input line 2
+52.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/orange_mask_order_legend.png, id=165, 1355.0625pt x 903.375pt>
+File: legends/orange_mask_order_legend.png Graphic file (type png)
+<use legends/orange_mask_order_legend.png>
+Package pdftex.def Info: legends/orange_mask_order_legend.png  used on input li
+ne 253.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_mask_order_log.png, id=166, 1355.0625pt x 903.375pt>
+File: images/los_angeles_mask_order_log.png Graphic file (type png)
+<use images/los_angeles_mask_order_log.png>
+Package pdftex.def Info: images/los_angeles_mask_order_log.png  used on input l
+ine 260.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/los_angeles_mask_order_legend.png, id=167, 1355.0625pt x 903.375pt>
+File: legends/los_angeles_mask_order_legend.png Graphic file (type png)
+<use legends/los_angeles_mask_order_legend.png>
+Package pdftex.def Info: legends/los_angeles_mask_order_legend.png  used on inp
+ut line 261.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_mask_order_log.png, id=168, 1355.0625pt x 903.375pt>
+File: images/san_bernardino_mask_order_log.png Graphic file (type png)
+<use images/san_bernardino_mask_order_log.png>
+Package pdftex.def Info: images/san_bernardino_mask_order_log.png  used on inpu
+t line 268.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/san_bernardino_mask_order_legend.png, id=169, 1355.0625pt x 903.375pt>
+
+File: legends/san_bernardino_mask_order_legend.png Graphic file (type png)
+<use legends/san_bernardino_mask_order_legend.png>
+Package pdftex.def Info: legends/san_bernardino_mask_order_legend.png  used on 
+input line 269.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_mask_order_log.png, id=170, 1355.0625pt x 903.375pt>
+File: images/san_francisco_mask_order_log.png Graphic file (type png)
+<use images/san_francisco_mask_order_log.png>
+Package pdftex.def Info: images/san_francisco_mask_order_log.png  used on input
+ line 276.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/san_francisco_mask_order_legend.png, id=171, 1355.0625pt x 903.375pt>
+File: legends/san_francisco_mask_order_legend.png Graphic file (type png)
+<use legends/san_francisco_mask_order_legend.png>
+Package pdftex.def Info: legends/san_francisco_mask_order_legend.png  used on i
+nput line 277.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_mask_order_log.png, id=172, 1355.0625pt x 903.375pt>
+File: images/travis_mask_order_log.png Graphic file (type png)
+<use images/travis_mask_order_log.png>
+Package pdftex.def Info: images/travis_mask_order_log.png  used on input line 2
+84.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/travis_mask_order_legend.png, id=173, 1355.0625pt x 903.375pt>
+File: legends/travis_mask_order_legend.png Graphic file (type png)
+<use legends/travis_mask_order_legend.png>
+Package pdftex.def Info: legends/travis_mask_order_legend.png  used on input li
+ne 285.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_mask_order_log.png, id=174, 1355.0625pt x 903.375pt>
+File: images/dallas_mask_order_log.png Graphic file (type png)
+<use images/dallas_mask_order_log.png>
+Package pdftex.def Info: images/dallas_mask_order_log.png  used on input line 2
+92.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/dallas_mask_order_legend.png, id=175, 1355.0625pt x 903.375pt>
+File: legends/dallas_mask_order_legend.png Graphic file (type png)
+<use legends/dallas_mask_order_legend.png>
+Package pdftex.def Info: legends/dallas_mask_order_legend.png  used on input li
+ne 293.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_mask_order_log.png, id=176, 1355.0625pt x 903.375pt>
+File: images/harris_mask_order_log.png Graphic file (type png)
+<use images/harris_mask_order_log.png>
+Package pdftex.def Info: images/harris_mask_order_log.png  used on input line 3
+00.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/harris_mask_order_legend.png, id=177, 1355.0625pt x 903.375pt>
+File: legends/harris_mask_order_legend.png Graphic file (type png)
+<use legends/harris_mask_order_legend.png>
+Package pdftex.def Info: legends/harris_mask_order_legend.png  used on input li
+ne 301.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [14] [15 <./images/dade_mask_order_log.png> <./legends/dade_mask_order_legend.
+png> <./images/broward_mask_order_log.png> <./legends/broward_mask_order_legend
+.png> <./images/orange_mask_order_log.png> <./legends/orange_mask_order_legend.
+png>] [16 <./images/los_angeles_mask_order_log.png> <./legends/los_angeles_mask
+_order_legend.png> <./images/san_bernardino_mask_order_log.png> <./legends/san_
+bernardino_mask_order_legend.png> <./images/san_francisco_mask_order_log.png> <
+./legends/san_francisco_mask_order_legend.png>] [17 <./images/travis_mask_order
+_log.png> <./legends/travis_mask_order_legend.png> <./images/dallas_mask_order_
+log.png> <./legends/dallas_mask_order_legend.png> <./images/harris_mask_order_l
+og.png> <./legends/harris_mask_order_legend.png>]
+<images/dade_mask_order_hospitalizations_log.png, id=208, 1355.0625pt x 903.375
+pt>
+File: images/dade_mask_order_hospitalizations_log.png Graphic file (type png)
+<use images/dade_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/dade_mask_order_hospitalizations_log.png  used 
+on input line 314.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dade_mask_order_legend.png Graphic file (type png)
+<use legends/dade_mask_order_legend.png>
+Package pdftex.def Info: legends/dade_mask_order_legend.png  used on input line
+ 315.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_mask_order_hospitalizations_log.png, id=209, 1355.0625pt x 903.
+375pt>
+File: images/broward_mask_order_hospitalizations_log.png Graphic file (type png
+)
+<use images/broward_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/broward_mask_order_hospitalizations_log.png  us
+ed on input line 323.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/broward_mask_order_legend.png Graphic file (type png)
+<use legends/broward_mask_order_legend.png>
+Package pdftex.def Info: legends/broward_mask_order_legend.png  used on input l
+ine 324.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_mask_order_hospitalizations_log.png, id=210, 1355.0625pt x 903.3
+75pt>
+File: images/orange_mask_order_hospitalizations_log.png Graphic file (type png)
+
+<use images/orange_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/orange_mask_order_hospitalizations_log.png  use
+d on input line 331.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/orange_mask_order_legend.png Graphic file (type png)
+<use legends/orange_mask_order_legend.png>
+Package pdftex.def Info: legends/orange_mask_order_legend.png  used on input li
+ne 332.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_mask_order_hospitalizations_log.png, id=211, 1355.0625pt x 
+903.375pt>
+File: images/los_angeles_mask_order_hospitalizations_log.png Graphic file (type
+ png)
+<use images/los_angeles_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/los_angeles_mask_order_hospitalizations_log.png
+  used on input line 339.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/los_angeles_mask_order_legend.png Graphic file (type png)
+<use legends/los_angeles_mask_order_legend.png>
+Package pdftex.def Info: legends/los_angeles_mask_order_legend.png  used on inp
+ut line 340.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_mask_order_hospitalizations_log.png, id=212, 1355.0625pt
+ x 903.375pt>
+File: images/san_bernardino_mask_order_hospitalizations_log.png Graphic file (t
+ype png)
+<use images/san_bernardino_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/san_bernardino_mask_order_hospitalizations_log.
+png  used on input line 347.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_bernardino_mask_order_legend.png Graphic file (type png)
+<use legends/san_bernardino_mask_order_legend.png>
+Package pdftex.def Info: legends/san_bernardino_mask_order_legend.png  used on 
+input line 348.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_mask_order_hospitalizations_log.png, id=213, 1355.0625pt 
+x 903.375pt>
+File: images/san_francisco_mask_order_hospitalizations_log.png Graphic file (ty
+pe png)
+<use images/san_francisco_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/san_francisco_mask_order_hospitalizations_log.p
+ng  used on input line 355.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_francisco_mask_order_legend.png Graphic file (type png)
+<use legends/san_francisco_mask_order_legend.png>
+Package pdftex.def Info: legends/san_francisco_mask_order_legend.png  used on i
+nput line 356.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_mask_order_hospitalizations_log.png, id=214, 1355.0625pt x 903.3
+75pt>
+File: images/travis_mask_order_hospitalizations_log.png Graphic file (type png)
+
+<use images/travis_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/travis_mask_order_hospitalizations_log.png  use
+d on input line 363.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/travis_mask_order_legend.png Graphic file (type png)
+<use legends/travis_mask_order_legend.png>
+Package pdftex.def Info: legends/travis_mask_order_legend.png  used on input li
+ne 364.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_mask_order_hospitalizations_log.png, id=215, 1355.0625pt x 903.3
+75pt>
+File: images/dallas_mask_order_hospitalizations_log.png Graphic file (type png)
+
+<use images/dallas_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/dallas_mask_order_hospitalizations_log.png  use
+d on input line 371.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dallas_mask_order_legend.png Graphic file (type png)
+<use legends/dallas_mask_order_legend.png>
+Package pdftex.def Info: legends/dallas_mask_order_legend.png  used on input li
+ne 372.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_mask_order_hospitalizations_log.png, id=216, 1355.0625pt x 903.3
+75pt>
+File: images/harris_mask_order_hospitalizations_log.png Graphic file (type png)
+
+<use images/harris_mask_order_hospitalizations_log.png>
+Package pdftex.def Info: images/harris_mask_order_hospitalizations_log.png  use
+d on input line 379.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/harris_mask_order_legend.png Graphic file (type png)
+<use legends/harris_mask_order_legend.png>
+Package pdftex.def Info: legends/harris_mask_order_legend.png  used on input li
+ne 380.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [18] [19 <./images/dade_mask_order_hospitalizations_log.png> <./images/broward
+_mask_order_hospitalizations_log.png> <./images/orange_mask_order_hospitalizati
+ons_log.png>] [20 <./images/los_angeles_mask_order_hospitalizations_log.png> <.
+/images/san_bernardino_mask_order_hospitalizations_log.png> <./images/san_franc
+isco_mask_order_hospitalizations_log.png>]
+[21 <./images/travis_mask_order_hospitalizations_log.png> <./images/dallas_mask
+_order_hospitalizations_log.png> <./images/harris_mask_order_hospitalizations_l
+og.png>]
+<images/dade_mask_order_fatalities_log.png, id=239, 1355.0625pt x 903.375pt>
+File: images/dade_mask_order_fatalities_log.png Graphic file (type png)
+<use images/dade_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/dade_mask_order_fatalities_log.png  used on inp
+ut line 393.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dade_mask_order_legend.png Graphic file (type png)
+<use legends/dade_mask_order_legend.png>
+Package pdftex.def Info: legends/dade_mask_order_legend.png  used on input line
+ 394.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_mask_order_fatalities_log.png, id=240, 1355.0625pt x 903.375pt>
+
+File: images/broward_mask_order_fatalities_log.png Graphic file (type png)
+<use images/broward_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/broward_mask_order_fatalities_log.png  used on 
+input line 402.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/broward_mask_order_legend.png Graphic file (type png)
+<use legends/broward_mask_order_legend.png>
+Package pdftex.def Info: legends/broward_mask_order_legend.png  used on input l
+ine 403.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_mask_order_fatalities_log.png, id=241, 1355.0625pt x 903.375pt>
+File: images/orange_mask_order_fatalities_log.png Graphic file (type png)
+<use images/orange_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/orange_mask_order_fatalities_log.png  used on i
+nput line 410.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/orange_mask_order_legend.png Graphic file (type png)
+<use legends/orange_mask_order_legend.png>
+Package pdftex.def Info: legends/orange_mask_order_legend.png  used on input li
+ne 411.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_mask_order_fatalities_log.png, id=242, 1355.0625pt x 903.37
+5pt>
+File: images/los_angeles_mask_order_fatalities_log.png Graphic file (type png)
+<use images/los_angeles_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/los_angeles_mask_order_fatalities_log.png  used
+ on input line 418.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/los_angeles_mask_order_legend.png Graphic file (type png)
+<use legends/los_angeles_mask_order_legend.png>
+Package pdftex.def Info: legends/los_angeles_mask_order_legend.png  used on inp
+ut line 419.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_mask_order_fatalities_log.png, id=243, 1355.0625pt x 903
+.375pt>
+File: images/san_bernardino_mask_order_fatalities_log.png Graphic file (type pn
+g)
+<use images/san_bernardino_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/san_bernardino_mask_order_fatalities_log.png  u
+sed on input line 426.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_bernardino_mask_order_legend.png Graphic file (type png)
+<use legends/san_bernardino_mask_order_legend.png>
+Package pdftex.def Info: legends/san_bernardino_mask_order_legend.png  used on 
+input line 427.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_mask_order_fatalities_log.png, id=244, 1355.0625pt x 903.
+375pt>
+File: images/san_francisco_mask_order_fatalities_log.png Graphic file (type png
+)
+<use images/san_francisco_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/san_francisco_mask_order_fatalities_log.png  us
+ed on input line 434.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_francisco_mask_order_legend.png Graphic file (type png)
+<use legends/san_francisco_mask_order_legend.png>
+Package pdftex.def Info: legends/san_francisco_mask_order_legend.png  used on i
+nput line 435.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_mask_order_fatalities_log.png, id=245, 1355.0625pt x 903.375pt>
+File: images/travis_mask_order_fatalities_log.png Graphic file (type png)
+<use images/travis_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/travis_mask_order_fatalities_log.png  used on i
+nput line 442.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/travis_mask_order_legend.png Graphic file (type png)
+<use legends/travis_mask_order_legend.png>
+Package pdftex.def Info: legends/travis_mask_order_legend.png  used on input li
+ne 443.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_mask_order_fatalities_log.png, id=246, 1355.0625pt x 903.375pt>
+File: images/dallas_mask_order_fatalities_log.png Graphic file (type png)
+<use images/dallas_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/dallas_mask_order_fatalities_log.png  used on i
+nput line 450.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dallas_mask_order_legend.png Graphic file (type png)
+<use legends/dallas_mask_order_legend.png>
+Package pdftex.def Info: legends/dallas_mask_order_legend.png  used on input li
+ne 451.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_mask_order_fatalities_log.png, id=247, 1355.0625pt x 903.375pt>
+File: images/harris_mask_order_fatalities_log.png Graphic file (type png)
+<use images/harris_mask_order_fatalities_log.png>
+Package pdftex.def Info: images/harris_mask_order_fatalities_log.png  used on i
+nput line 458.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/harris_mask_order_legend.png Graphic file (type png)
+<use legends/harris_mask_order_legend.png>
+Package pdftex.def Info: legends/harris_mask_order_legend.png  used on input li
+ne 459.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [22] [23 <./images/dade_mask_order_fatalities_log.png> <./images/broward_mask_
+order_fatalities_log.png> <./images/orange_mask_order_fatalities_log.png>] [24 
+<./images/los_angeles_mask_order_fatalities_log.png> <./images/san_bernardino_m
+ask_order_fatalities_log.png> <./images/san_francisco_mask_order_fatalities_log
+.png>] [25 <./images/travis_mask_order_fatalities_log.png> <./images/dallas_mas
+k_order_fatalities_log.png> <./images/harris_mask_order_fatalities_log.png>]
+<pie charts/mask_orders.png, id=270, 370.2633pt x 275.1078pt>
+File: pie charts/mask_orders.png Graphic file (type png)
+<use pie charts/mask_orders.png>
+Package pdftex.def Info: pie charts/mask_orders.png  used on input line 470.
+(pdftex.def)             Requested size: 455.24408pt x 338.25883pt.
+ [26] [27 <./pie charts/mask_orders.png (PNG copy)>]
+<images/dade_cases_school_log.png, id=277, 1355.0625pt x 903.375pt>
+File: images/dade_cases_school_log.png Graphic file (type png)
+<use images/dade_cases_school_log.png>
+Package pdftex.def Info: images/dade_cases_school_log.png  used on input line 4
+87.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/dade_school_legend.png, id=278, 1355.0625pt x 903.375pt>
+File: legends/dade_school_legend.png Graphic file (type png)
+<use legends/dade_school_legend.png>
+Package pdftex.def Info: legends/dade_school_legend.png  used on input line 488
+.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_cases_school_log.png, id=279, 1355.0625pt x 903.375pt>
+File: images/broward_cases_school_log.png Graphic file (type png)
+<use images/broward_cases_school_log.png>
+Package pdftex.def Info: images/broward_cases_school_log.png  used on input lin
+e 496.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/broward_school_legend.png, id=280, 1355.0625pt x 903.375pt>
+File: legends/broward_school_legend.png Graphic file (type png)
+<use legends/broward_school_legend.png>
+Package pdftex.def Info: legends/broward_school_legend.png  used on input line 
+497.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_cases_school_log.png, id=281, 1355.0625pt x 903.375pt>
+File: images/orange_cases_school_log.png Graphic file (type png)
+<use images/orange_cases_school_log.png>
+Package pdftex.def Info: images/orange_cases_school_log.png  used on input line
+ 504.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/orange_school_legend.png, id=282, 1355.0625pt x 903.375pt>
+File: legends/orange_school_legend.png Graphic file (type png)
+<use legends/orange_school_legend.png>
+Package pdftex.def Info: legends/orange_school_legend.png  used on input line 5
+05.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_cases_school_log.png, id=283, 1355.0625pt x 903.375pt>
+File: images/los_angeles_cases_school_log.png Graphic file (type png)
+<use images/los_angeles_cases_school_log.png>
+Package pdftex.def Info: images/los_angeles_cases_school_log.png  used on input
+ line 512.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/los_angeles_school_legend.png, id=284, 1355.0625pt x 903.375pt>
+File: legends/los_angeles_school_legend.png Graphic file (type png)
+<use legends/los_angeles_school_legend.png>
+Package pdftex.def Info: legends/los_angeles_school_legend.png  used on input l
+ine 513.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_cases_school_log.png, id=285, 1355.0625pt x 903.375pt>
+File: images/san_bernardino_cases_school_log.png Graphic file (type png)
+<use images/san_bernardino_cases_school_log.png>
+Package pdftex.def Info: images/san_bernardino_cases_school_log.png  used on in
+put line 520.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/san_bernardino_school_legend.png, id=286, 1355.0625pt x 903.375pt>
+File: legends/san_bernardino_school_legend.png Graphic file (type png)
+<use legends/san_bernardino_school_legend.png>
+Package pdftex.def Info: legends/san_bernardino_school_legend.png  used on inpu
+t line 521.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_cases_school_log.png, id=287, 1355.0625pt x 903.375pt>
+File: images/san_francisco_cases_school_log.png Graphic file (type png)
+<use images/san_francisco_cases_school_log.png>
+Package pdftex.def Info: images/san_francisco_cases_school_log.png  used on inp
+ut line 528.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/san_francisco_school_legend.png, id=288, 1355.0625pt x 903.375pt>
+File: legends/san_francisco_school_legend.png Graphic file (type png)
+<use legends/san_francisco_school_legend.png>
+Package pdftex.def Info: legends/san_francisco_school_legend.png  used on input
+ line 529.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_cases_school_log.png, id=289, 1355.0625pt x 903.375pt>
+File: images/travis_cases_school_log.png Graphic file (type png)
+<use images/travis_cases_school_log.png>
+Package pdftex.def Info: images/travis_cases_school_log.png  used on input line
+ 536.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/travis_school_legend.png, id=290, 1355.0625pt x 903.375pt>
+File: legends/travis_school_legend.png Graphic file (type png)
+<use legends/travis_school_legend.png>
+Package pdftex.def Info: legends/travis_school_legend.png  used on input line 5
+37.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_cases_school_log.png, id=291, 1355.0625pt x 903.375pt>
+File: images/dallas_cases_school_log.png Graphic file (type png)
+<use images/dallas_cases_school_log.png>
+Package pdftex.def Info: images/dallas_cases_school_log.png  used on input line
+ 544.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/dallas_school_legend.png, id=292, 1355.0625pt x 903.375pt>
+File: legends/dallas_school_legend.png Graphic file (type png)
+<use legends/dallas_school_legend.png>
+Package pdftex.def Info: legends/dallas_school_legend.png  used on input line 5
+45.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_cases_school_log.png, id=293, 1355.0625pt x 903.375pt>
+File: images/harris_cases_school_log.png Graphic file (type png)
+<use images/harris_cases_school_log.png>
+Package pdftex.def Info: images/harris_cases_school_log.png  used on input line
+ 552.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<legends/harris_school_legend.png, id=294, 1355.0625pt x 903.375pt>
+File: legends/harris_school_legend.png Graphic file (type png)
+<use legends/harris_school_legend.png>
+Package pdftex.def Info: legends/harris_school_legend.png  used on input line 5
+53.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [28] [29 <./images/dade_cases_school_log.png> <./legends/dade_school_legend.pn
+g> <./images/broward_cases_school_log.png> <./legends/broward_school_legend.png
+> <./images/orange_cases_school_log.png> <./legends/orange_school_legend.png>] 
+[30 <./images/los_angeles_cases_school_log.png> <./legends/los_angeles_school_l
+egend.png> <./images/san_bernardino_cases_school_log.png> <./legends/san_bernar
+dino_school_legend.png> <./images/san_francisco_cases_school_log.png> <./legend
+s/san_francisco_school_legend.png>] [31 <./images/travis_cases_school_log.png> 
+<./legends/travis_school_legend.png> <./images/dallas_cases_school_log.png> <./
+legends/dallas_school_legend.png> <./images/harris_cases_school_log.png> <./leg
+ends/harris_school_legend.png>]
+<images/dade_hospitalizations_school_log.png, id=326, 1355.0625pt x 903.375pt>
+File: images/dade_hospitalizations_school_log.png Graphic file (type png)
+<use images/dade_hospitalizations_school_log.png>
+Package pdftex.def Info: images/dade_hospitalizations_school_log.png  used on i
+nput line 564.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dade_school_legend.png Graphic file (type png)
+<use legends/dade_school_legend.png>
+Package pdftex.def Info: legends/dade_school_legend.png  used on input line 565
+.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_hospitalizations_school_log.png, id=327, 1355.0625pt x 903.375p
+t>
+File: images/broward_hospitalizations_school_log.png Graphic file (type png)
+<use images/broward_hospitalizations_school_log.png>
+Package pdftex.def Info: images/broward_hospitalizations_school_log.png  used o
+n input line 573.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/broward_school_legend.png Graphic file (type png)
+<use legends/broward_school_legend.png>
+Package pdftex.def Info: legends/broward_school_legend.png  used on input line 
+574.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_hospitalizations_school_log.png, id=328, 1355.0625pt x 903.375pt
+>
+File: images/orange_hospitalizations_school_log.png Graphic file (type png)
+<use images/orange_hospitalizations_school_log.png>
+Package pdftex.def Info: images/orange_hospitalizations_school_log.png  used on
+ input line 581.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/orange_school_legend.png Graphic file (type png)
+<use legends/orange_school_legend.png>
+Package pdftex.def Info: legends/orange_school_legend.png  used on input line 5
+82.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_hospitalizations_school_log.png, id=329, 1355.0625pt x 903.
+375pt>
+File: images/los_angeles_hospitalizations_school_log.png Graphic file (type png
+)
+<use images/los_angeles_hospitalizations_school_log.png>
+Package pdftex.def Info: images/los_angeles_hospitalizations_school_log.png  us
+ed on input line 589.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/los_angeles_school_legend.png Graphic file (type png)
+<use legends/los_angeles_school_legend.png>
+Package pdftex.def Info: legends/los_angeles_school_legend.png  used on input l
+ine 590.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_hospitalizations_school_log.png, id=330, 1355.0625pt x 9
+03.375pt>
+File: images/san_bernardino_hospitalizations_school_log.png Graphic file (type 
+png)
+<use images/san_bernardino_hospitalizations_school_log.png>
+Package pdftex.def Info: images/san_bernardino_hospitalizations_school_log.png 
+ used on input line 597.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_bernardino_school_legend.png Graphic file (type png)
+<use legends/san_bernardino_school_legend.png>
+Package pdftex.def Info: legends/san_bernardino_school_legend.png  used on inpu
+t line 598.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_hospitalizations_school_log.png, id=331, 1355.0625pt x 90
+3.375pt>
+File: images/san_francisco_hospitalizations_school_log.png Graphic file (type p
+ng)
+<use images/san_francisco_hospitalizations_school_log.png>
+Package pdftex.def Info: images/san_francisco_hospitalizations_school_log.png  
+used on input line 605.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_francisco_school_legend.png Graphic file (type png)
+<use legends/san_francisco_school_legend.png>
+Package pdftex.def Info: legends/san_francisco_school_legend.png  used on input
+ line 606.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_hospitalizations_school_log.png, id=332, 1355.0625pt x 903.375pt
+>
+File: images/travis_hospitalizations_school_log.png Graphic file (type png)
+<use images/travis_hospitalizations_school_log.png>
+Package pdftex.def Info: images/travis_hospitalizations_school_log.png  used on
+ input line 613.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/travis_school_legend.png Graphic file (type png)
+<use legends/travis_school_legend.png>
+Package pdftex.def Info: legends/travis_school_legend.png  used on input line 6
+14.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_hospitalizations_school_log.png, id=333, 1355.0625pt x 903.375pt
+>
+File: images/dallas_hospitalizations_school_log.png Graphic file (type png)
+<use images/dallas_hospitalizations_school_log.png>
+Package pdftex.def Info: images/dallas_hospitalizations_school_log.png  used on
+ input line 621.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dallas_school_legend.png Graphic file (type png)
+<use legends/dallas_school_legend.png>
+Package pdftex.def Info: legends/dallas_school_legend.png  used on input line 6
+22.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_hospitalizations_school_log.png, id=334, 1355.0625pt x 903.375pt
+>
+File: images/harris_hospitalizations_school_log.png Graphic file (type png)
+<use images/harris_hospitalizations_school_log.png>
+Package pdftex.def Info: images/harris_hospitalizations_school_log.png  used on
+ input line 629.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/harris_school_legend.png Graphic file (type png)
+<use legends/harris_school_legend.png>
+Package pdftex.def Info: legends/harris_school_legend.png  used on input line 6
+30.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [32] [33 <./images/dade_hospitalizations_school_log.png> <./images/broward_hos
+pitalizations_school_log.png> <./images/orange_hospitalizations_school_log.png>
+] [34 <./images/los_angeles_hospitalizations_school_log.png> <./images/san_bern
+ardino_hospitalizations_school_log.png> <./images/san_francisco_hospitalization
+s_school_log.png>] [35 <./images/travis_hospitalizations_school_log.png> <./ima
+ges/dallas_hospitalizations_school_log.png> <./images/harris_hospitalizations_s
+chool_log.png>]
+<images/dade_fatalities_school_log.png, id=356, 1355.0625pt x 903.375pt>
+File: images/dade_fatalities_school_log.png Graphic file (type png)
+<use images/dade_fatalities_school_log.png>
+Package pdftex.def Info: images/dade_fatalities_school_log.png  used on input l
+ine 641.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dade_school_legend.png Graphic file (type png)
+<use legends/dade_school_legend.png>
+Package pdftex.def Info: legends/dade_school_legend.png  used on input line 642
+.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/broward_fatalities_school_log.png, id=357, 1355.0625pt x 903.375pt>
+File: images/broward_fatalities_school_log.png Graphic file (type png)
+<use images/broward_fatalities_school_log.png>
+Package pdftex.def Info: images/broward_fatalities_school_log.png  used on inpu
+t line 650.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/broward_school_legend.png Graphic file (type png)
+<use legends/broward_school_legend.png>
+Package pdftex.def Info: legends/broward_school_legend.png  used on input line 
+651.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/orange_fatalities_school_log.png, id=358, 1355.0625pt x 903.375pt>
+File: images/orange_fatalities_school_log.png Graphic file (type png)
+<use images/orange_fatalities_school_log.png>
+Package pdftex.def Info: images/orange_fatalities_school_log.png  used on input
+ line 658.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/orange_school_legend.png Graphic file (type png)
+<use legends/orange_school_legend.png>
+Package pdftex.def Info: legends/orange_school_legend.png  used on input line 6
+59.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/los_angeles_fatalities_school_log.png, id=359, 1355.0625pt x 903.375pt>
+
+File: images/los_angeles_fatalities_school_log.png Graphic file (type png)
+<use images/los_angeles_fatalities_school_log.png>
+Package pdftex.def Info: images/los_angeles_fatalities_school_log.png  used on 
+input line 666.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/los_angeles_school_legend.png Graphic file (type png)
+<use legends/los_angeles_school_legend.png>
+Package pdftex.def Info: legends/los_angeles_school_legend.png  used on input l
+ine 667.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_bernardino_fatalities_school_log.png, id=360, 1355.0625pt x 903.375
+pt>
+File: images/san_bernardino_fatalities_school_log.png Graphic file (type png)
+<use images/san_bernardino_fatalities_school_log.png>
+Package pdftex.def Info: images/san_bernardino_fatalities_school_log.png  used 
+on input line 674.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_bernardino_school_legend.png Graphic file (type png)
+<use legends/san_bernardino_school_legend.png>
+Package pdftex.def Info: legends/san_bernardino_school_legend.png  used on inpu
+t line 675.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/san_francisco_fatalities_school_log.png, id=361, 1355.0625pt x 903.375p
+t>
+File: images/san_francisco_fatalities_school_log.png Graphic file (type png)
+<use images/san_francisco_fatalities_school_log.png>
+Package pdftex.def Info: images/san_francisco_fatalities_school_log.png  used o
+n input line 682.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/san_francisco_school_legend.png Graphic file (type png)
+<use legends/san_francisco_school_legend.png>
+Package pdftex.def Info: legends/san_francisco_school_legend.png  used on input
+ line 683.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/travis_fatalities_school_log.png, id=362, 1355.0625pt x 903.375pt>
+File: images/travis_fatalities_school_log.png Graphic file (type png)
+<use images/travis_fatalities_school_log.png>
+Package pdftex.def Info: images/travis_fatalities_school_log.png  used on input
+ line 690.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/travis_school_legend.png Graphic file (type png)
+<use legends/travis_school_legend.png>
+Package pdftex.def Info: legends/travis_school_legend.png  used on input line 6
+91.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/dallas_fatalities_school_log.png, id=363, 1355.0625pt x 903.375pt>
+File: images/dallas_fatalities_school_log.png Graphic file (type png)
+<use images/dallas_fatalities_school_log.png>
+Package pdftex.def Info: images/dallas_fatalities_school_log.png  used on input
+ line 698.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/dallas_school_legend.png Graphic file (type png)
+<use legends/dallas_school_legend.png>
+Package pdftex.def Info: legends/dallas_school_legend.png  used on input line 6
+99.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+<images/harris_fatalities_school_log.png, id=364, 1355.0625pt x 903.375pt>
+File: images/harris_fatalities_school_log.png Graphic file (type png)
+<use images/harris_fatalities_school_log.png>
+Package pdftex.def Info: images/harris_fatalities_school_log.png  used on input
+ line 706.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+File: legends/harris_school_legend.png Graphic file (type png)
+<use legends/harris_school_legend.png>
+Package pdftex.def Info: legends/harris_school_legend.png  used on input line 7
+07.
+(pdftex.def)             Requested size: 213.96527pt x 142.6407pt.
+ [36] [37 <./images/dade_fatalities_school_log.png> <./images/broward_fatalitie
+s_school_log.png> <./images/orange_fatalities_school_log.png>] [38 <./images/lo
+s_angeles_fatalities_school_log.png> <./images/san_bernardino_fatalities_school
+_log.png> <./images/san_francisco_fatalities_school_log.png>] [39 <./images/tra
+vis_fatalities_school_log.png> <./images/dallas_fatalities_school_log.png> <./i
+mages/harris_fatalities_school_log.png>]
+(./2021.02.16_draft.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3307 strings out of 480608
+ 74380 string characters out of 5903631
+ 279163 words of memory out of 5000000
+ 19071 multiletter control sequences out of 15000+600000
+ 550068 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,8n,42p,1149b,284s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on 2021.02.16_draft.pdf (39 pages, 3017985 bytes).
+PDF statistics:
+ 418 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 636 words of extra memory for PDF output out of 10000 (max. 10000000)
+

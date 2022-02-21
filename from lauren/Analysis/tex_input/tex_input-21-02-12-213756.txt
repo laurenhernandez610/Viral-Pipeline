@@ -1,0 +1,75 @@
+%-----------------------
+% 12-Feb-2021 21:37:56     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/test_config1_legend.png}
+    \caption{}
+    \label{fig:legends/test_config1_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-0lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-1lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-2lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-3lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-4lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-5lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-6lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-7lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-8lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-9lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/test_config1_run-10lag.png}
+    \caption{}
+    \label{fig:images/test_config1_run-10lagLabel}
+\end{figure}
+

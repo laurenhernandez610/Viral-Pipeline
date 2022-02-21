@@ -1,0 +1,27 @@
+%-----------------------
+% 21-May-2021 19:02:39     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_normalized_cases_vf.png}
+    \caption{}
+    \label{fig:images/ltc_normalized_cases_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/ltc_normalized_fatalities_vf.png}
+    \caption{}
+    \label{fig:images/ltc_normalized_fatalities_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_normalized_cases_vf.png}
+    \caption{}
+    \label{fig:images/usa_normalized_cases_vfLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/usa_normalized_fatalities_vf.png}
+    \caption{}
+    \label{fig:images/usa_normalized_fatalities_vfLabel}
+\end{figure}
+

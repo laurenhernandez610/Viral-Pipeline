@@ -1,0 +1,15 @@
+%-----------------------
+% 02-Feb-2021 15:54:13     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/variant_strains_legend.png}
+    \caption{}
+    \label{fig:legends/variant_strains_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_cases_strains_log.png}
+    \caption{}
+    \label{fig:images/travis_cases_strains_logLabel}
+\end{figure}
+

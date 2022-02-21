@@ -1,0 +1,39 @@
+%-----------------------
+% 18-Jan-2021 10:31:08     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/travis_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/travis_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/travis_mask_order.png}
+    \caption{}
+    \label{fig:images/travis_mask_orderLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/dallas_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/dallas_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/dallas_mask_order.png}
+    \caption{}
+    \label{fig:images/dallas_mask_orderLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/harris_mask_order_legend.png}
+    \caption{}
+    \label{fig:legends/harris_mask_order_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/harris_mask_order.png}
+    \caption{}
+    \label{fig:images/harris_mask_orderLabel}
+\end{figure}
+

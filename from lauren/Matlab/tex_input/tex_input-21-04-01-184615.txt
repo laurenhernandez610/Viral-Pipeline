@@ -1,0 +1,207 @@
+%-----------------------
+% 01-Apr-2021 18:46:15     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-0lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-0lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-1lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-1lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-2lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-2lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-3lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-3lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-4lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-4lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-5lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-5lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-6lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-6lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-7lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-7lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-8lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-8lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-9lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-9lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-10lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-10lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-11lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-11lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-12lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-12lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-13lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-13lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-14lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-14lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-15lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-15lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-16lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-16lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-17lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-17lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-18lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-18lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-19lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-19lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-20lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-20lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-21lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-21lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-22lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-22lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-23lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-23lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-24lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-24lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-25lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-25lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-26lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-26lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-27lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-27lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-28lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-28lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-29lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-29lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine-30lag.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine-30lagLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/new_vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/new_vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/broward_nursing_home_with_vaccine_log.png}
+    \caption{}
+    \label{fig:images/broward_nursing_home_with_vaccine_logLabel}
+\end{figure}
+

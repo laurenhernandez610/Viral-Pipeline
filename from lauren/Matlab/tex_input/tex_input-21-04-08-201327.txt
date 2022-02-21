@@ -1,0 +1,15 @@
+%-----------------------
+% 08-Apr-2021 20:13:27     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{legends/vaccine_rollout_legend.png}
+    \caption{}
+    \label{fig:legends/vaccine_rollout_legendLabel}
+\end{figure}
+
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/california_65_older.png}
+    \caption{}
+    \label{fig:images/california_65_olderLabel}
+\end{figure}
+

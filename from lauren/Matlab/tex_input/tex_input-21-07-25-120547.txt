@@ -1,0 +1,9 @@
+%-----------------------
+% 25-Jul-2021 12:05:47     
+%-----------------------
+\begin{figure}[!h]
+    \includegraphics[width=\linewidth]{images/vaccines_sorted_by_brand_us.png}
+    \caption{}
+    \label{fig:images/vaccines_sorted_by_brand_usLabel}
+\end{figure}
+
